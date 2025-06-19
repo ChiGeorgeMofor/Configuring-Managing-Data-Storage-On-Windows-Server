@@ -38,7 +38,7 @@ This illustrated lab manual covers:
 
 Click below to download or view the PDF:
 
-👉 [**Configuring & Managing Data Storage on Windows Server 2019**](./YOUR_PDF_FILENAME.pdf)
+👉 [**Configuring & Managing Data Storage on Windows Server 2019**](./https://github.com/ChiGeorgeMofor/Configuring-Managing-Data-Storage-On-Windows-Server/blob/main/Configuring%20%26%20Managing%20WinServer.pdf)
 
 ---
 
